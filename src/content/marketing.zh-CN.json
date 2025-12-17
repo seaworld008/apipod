@@ -1,0 +1,45 @@
+{
+  "hero": {
+    "eyebrow": "你好，我是 APIPod（Mock）",
+    "title": "一个 API 接入多种 AI 模型",
+    "subtitle": "本仓库提供前端复刻壳子：用于对齐路由/布局/交互；当前所有数据与接口均为 Mock。",
+    "primaryCta": "获取 API Key（Mock）",
+    "secondaryCta": "模型"
+  },
+  "sections": {
+    "featured": {
+      "label": "精选模型",
+      "title": "热门模型（Mock）",
+      "subtitle": "用于验证卡片布局、筛选交互与详情路由。"
+    },
+    "reliability": {
+      "label": "可靠性",
+      "title": "基础设施占位（Mock）",
+      "items": [
+        {
+          "title": "熔断保护",
+          "desc": "Mock：连续失败后自动隔离。"
+        },
+        {
+          "title": "可观测性平台",
+          "desc": "Mock：请求日志、用量统计与成本分析。"
+        },
+        {
+          "title": "多渠道路由",
+          "desc": "Mock：选择最优上游渠道以提升稳定性与性价比。"
+        }
+      ]
+    },
+    "developerFirst": {
+      "label": "开发者优先",
+      "title": "面向开发体验优化",
+      "subtitle": "Mock：保持接口形态，后续可无缝替换真实后端。"
+    },
+    "finalCta": {
+      "title": "准备开始构建？",
+      "subtitle": "先用 Mock 验证前端与交互，后续接入真实后端。",
+      "cta": "免费开始"
+    }
+  }
+}
+

@@ -1,0 +1,45 @@
+{
+  "hero": {
+    "eyebrow": "Hi, I'm APIPod (Mock)",
+    "title": "Unified API access to top AI models",
+    "subtitle": "One API connects text, image, and video. This repo ships a UI shell with mock data and mock endpoints.",
+    "primaryCta": "Get API Key (Mock)",
+    "secondaryCta": "Models"
+  },
+  "sections": {
+    "featured": {
+      "label": "Featured Models",
+      "title": "Popular AI API Models",
+      "subtitle": "Mock catalog for validating layout, routing, and interactions."
+    },
+    "reliability": {
+      "label": "Reliability",
+      "title": "Infrastructure placeholders",
+      "items": [
+        {
+          "title": "Circuit breaker protection",
+          "desc": "Mock: automatic isolation after consecutive failures."
+        },
+        {
+          "title": "Observability platform",
+          "desc": "Mock: request logs, token usage, and cost analysis."
+        },
+        {
+          "title": "Multi-channel routing",
+          "desc": "Mock: pick the optimal upstream channel for stability and cost."
+        }
+      ]
+    },
+    "developerFirst": {
+      "label": "Developer First",
+      "title": "Optimized for developer experience",
+      "subtitle": "Mock: keep the interface compatible and swap backends later."
+    },
+    "finalCta": {
+      "title": "Ready to build?",
+      "subtitle": "Start with mock data today; wire a real backend when ready.",
+      "cta": "Start for Free Now"
+    }
+  }
+}
+
